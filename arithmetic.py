@@ -1,10 +1,9 @@
 """Functions for common math operations."""
 
-
 def add(num1, num2):
     """Return the sum of num1 and num2."""
-
-    return 10
+    sum = num1 + num2
+    return sum
 
 
 def subtract(num1, num2):
