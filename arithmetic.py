@@ -13,11 +13,12 @@ def subtract(num1, num2):
 
 def multiply(num1, num2):
     """Multiply the num1 by num2 and return the result."""
-
+    result = num1 * num2
+    return result
 
 def divide(num1, num2):
     """Divide the num1 by num2, returning a floating point."""
-
+  
 
 def square(num1):
     """Return the square of num1."""
