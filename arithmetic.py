@@ -23,7 +23,8 @@ def divide(num1, num2):
 
 def square(num1):
     """Return the square of num1."""
-
+    result = num1 ** 2
+    return result
 
 def cube(num1):
     """Return the cube of num1."""
